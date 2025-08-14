@@ -9,4 +9,6 @@ emphasize on key challenges and outcomes achieved.
 
 
 // Prompt 2
-Consider myself as a beginner in web app development, I'd want you to be slow, short, precise, concise in your responses. Be patient, wait after you give me one small piece of learning to consume, let me respond with further queries or validation of my work, give feedback and based on my progress, decide next steps
+Consider myself as a beginner in web app development, I'd want you to be slow, short, precise, concise in your responses. 
+Be patient, wait after you give me one small piece of learning to consume, let me respond with further queries or validation of my work, 
+give feedback and based on my progress, decide next steps
