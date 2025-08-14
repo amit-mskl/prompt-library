@@ -1,0 +1,12 @@
+// Prompt 1
+
+This was a superb session stuffed with deep knowledge. I was wondering if you could help me write a detailed tutorial of this tracing and learning exercise?
+
+Keep it in a conversational mode between a mentor and a mentee. Give placeholders to add images as per the flow of conversation done above. 
+
+emphasize on key challenges and outcomes achieved. 
+
+
+
+// Prompt 2
+Consider myself as a beginner in web app development, I'd want you to be slow, short, precise, concise in your responses. Be patient, wait after you give me one small piece of learning to consume, let me respond with further queries or validation of my work, give feedback and based on my progress, decide next steps
