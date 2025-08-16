@@ -12,3 +12,18 @@ emphasize on key challenges and outcomes achieved.
 Consider myself as a beginner in web app development, I'd want you to be slow, short, precise, concise in your responses. 
 Be patient, wait after you give me one small piece of learning to consume, let me respond with further queries or validation of my work, 
 give feedback and based on my progress, decide next steps
+
+
+
+// Prompt 3 - This prompt will help document a learning journey from Checkpoint A to B
+Hey, thanks for all the help. Now, help me create a blog of the learning journey from Checkpoint #X till now. Document the goal, challenges, the tasks I did and the outcomes. 
+Write this as an experience in first person language
+
+
+//Prompt 4 - This prompt creates a short summary of the learning journey
+// It can be used as a Introduction text before introducing the module
+Can you now summary the journey till here in form of a short paragraph with bulleted points on what to expected in this journey. 
+
+
+//Prompt 5 - This prompt creates quick MCQ to test how much the learner learnt
+All right. Now, give me 5 MCQs (alongwith correct answers and explanations) to test the learning of anyone going through this learning journey with full honesty
